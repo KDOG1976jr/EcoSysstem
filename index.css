@@ -5,7 +5,7 @@ body{
     
   }
 ul{
-    background-color: transparent;
+    background-color: lightblue;
     margin: 0;
     padding: 0;
 }
@@ -14,12 +14,13 @@ li{
     list-style: none;
     float: left;
     border-right: 1px solid white; 
+    
 
 
 }
 li a{
     display: block;
-    padding: 14px 16px;
+    padding: 10px 13px;
     text-align: center;
     text-decoration: none;
     color: white;
@@ -171,4 +172,12 @@ h1{
     margin: 5px;
     border: 5px white dotted;
     padding: 2px;
+}
+img.picto{
+    width: 100px;
+    height: 60px;
+    float: right;
+}
+li.picto{
+    float: right;
 }
