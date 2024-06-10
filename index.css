@@ -32,10 +32,18 @@ li:last-child{
     border-right: none;
 }
 
-.gallery{
+    
 
-    width: 100px;
-    height: 100px;
-    margin: 5px;
-    border: 5px solid white;
+
+div.words{
+    float: right;
+    color: white;
+    font-size: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-decoration: none;
+    text-align: center;
+}
+a{
+    text-decoration: underline;
+    color: white;
 }
